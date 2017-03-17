@@ -1,26 +1,34 @@
 [
     {
-        "vpid": "b08hprlm"
+        "vpid": "b08hprlm",
+        "mediaset": "mobile-download"
     },
     {
-        "vpid": "b08hpsy5"
+        "vpid": "b08hpsy5",
+        "mediaset": "mobile-download"
     },
     {
-        "vpid": "b08gwr2y"
+        "vpid": "b08gwr2y",
+        "mediaset": "mobile-download"
     },
     {
-        "vpid": "b08hptvr"
+        "vpid": "b08hptvr",
+        "mediaset": "mobile-download"
     },
     {
-        "vpid": "b08gwr0n"
+        "vpid": "b08gwr0n",
+        "mediaset": "mobile-download"
     },
     {
-        "vpid": "b08hpv1v"
+        "vpid": "b08hpv1v",
+        "mediaset": "mobile-download"
     },
     {
-        "vpid": "b08h948z"
+        "vpid": "b08h948z",
+        "mediaset": "mobile-download"
     },
     {
-        "vpid": "b08hzf69"
+        "vpid": "b08hzf69",
+        "mediaset": "mobile-download"
     }
 ]
